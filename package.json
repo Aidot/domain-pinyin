@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "fast-csv": "^2.4.0",
+    "fs": "^0.0.1-security",
+    "nodejieba": "^2.2.4",
+    "progress": "^2.0.0"
+  },
+  "name": "pinyin-domain",
+  "version": "1.0.0",
+  "main": "run.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aidot",
+  "license": "MIT",
+  "description": ""
+}
